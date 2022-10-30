@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/silo9506/youtube-redux-react.git/static/js/main.5b0f8169.js",
-    "static/media/logo01.svg": "/silo9506/youtube-redux-react.git/static/media/logo01.831fc9fa0329ef80470901cf6baff03a.svg",
-    "static/media/like01.svg": "/silo9506/youtube-redux-react.git/static/media/like01.20623127ccc0351ba3e8375b678afb23.svg",
-    "static/media/hate01.svg": "/silo9506/youtube-redux-react.git/static/media/hate01.03e30276eeef6aa66b34d877858aba5f.svg",
-    "static/media/avatar01.svg": "/silo9506/youtube-redux-react.git/static/media/avatar01.939b9e07fdbc1e4d5d2dafed9034d42b.svg",
-    "static/media/alarm01.svg": "/silo9506/youtube-redux-react.git/static/media/alarm01.fc8a25bf1c563580ffe61f6075e6ad64.svg",
-    "static/media/dotmenu01.svg": "/silo9506/youtube-redux-react.git/static/media/dotmenu01.9e7542b0c8be4c60efeaeefbb1345575.svg",
-    "index.html": "/silo9506/youtube-redux-react.git/index.html",
-    "static/media/dotmenu02.svg": "/silo9506/youtube-redux-react.git/static/media/dotmenu02.7cdaff5c4be25eddb81296414efd5017.svg",
-    "static/media/dotmenu03.svg": "/silo9506/youtube-redux-react.git/static/media/dotmenu03.b7efdeda4b482de09371c825b5192941.svg",
-    "static/media/search01.svg": "/silo9506/youtube-redux-react.git/static/media/search01.43148eeaade46701e86b662df8e889b2.svg",
-    "static/media/share01.svg": "/silo9506/youtube-redux-react.git/static/media/share01.4cb3de476ed67e98d6c07fc6b6ebcab9.svg",
-    "static/media/recording01.svg": "/silo9506/youtube-redux-react.git/static/media/recording01.201b2fabec2eb638060bdcbbf6795906.svg",
-    "static/media/playlist01.svg": "/silo9506/youtube-redux-react.git/static/media/playlist01.db9b00608abd6f96168e182ca5869f07.svg",
-    "static/media/hamburger01.svg": "/silo9506/youtube-redux-react.git/static/media/hamburger01.046a8b19dd9d111bf1bce0b9d5ebafa9.svg",
-    "main.5b0f8169.js.map": "/silo9506/youtube-redux-react.git/static/js/main.5b0f8169.js.map"
+    "main.js": "/youtube-redux-react/static/js/main.d620ec62.js",
+    "static/media/logo01.svg": "/youtube-redux-react/static/media/logo01.831fc9fa0329ef80470901cf6baff03a.svg",
+    "static/media/like01.svg": "/youtube-redux-react/static/media/like01.20623127ccc0351ba3e8375b678afb23.svg",
+    "static/media/hate01.svg": "/youtube-redux-react/static/media/hate01.03e30276eeef6aa66b34d877858aba5f.svg",
+    "static/media/avatar01.svg": "/youtube-redux-react/static/media/avatar01.939b9e07fdbc1e4d5d2dafed9034d42b.svg",
+    "static/media/alarm01.svg": "/youtube-redux-react/static/media/alarm01.fc8a25bf1c563580ffe61f6075e6ad64.svg",
+    "static/media/dotmenu01.svg": "/youtube-redux-react/static/media/dotmenu01.9e7542b0c8be4c60efeaeefbb1345575.svg",
+    "static/media/dotmenu02.svg": "/youtube-redux-react/static/media/dotmenu02.7cdaff5c4be25eddb81296414efd5017.svg",
+    "static/media/dotmenu03.svg": "/youtube-redux-react/static/media/dotmenu03.b7efdeda4b482de09371c825b5192941.svg",
+    "index.html": "/youtube-redux-react/index.html",
+    "static/media/search01.svg": "/youtube-redux-react/static/media/search01.43148eeaade46701e86b662df8e889b2.svg",
+    "static/media/share01.svg": "/youtube-redux-react/static/media/share01.4cb3de476ed67e98d6c07fc6b6ebcab9.svg",
+    "static/media/recording01.svg": "/youtube-redux-react/static/media/recording01.201b2fabec2eb638060bdcbbf6795906.svg",
+    "static/media/playlist01.svg": "/youtube-redux-react/static/media/playlist01.db9b00608abd6f96168e182ca5869f07.svg",
+    "static/media/hamburger01.svg": "/youtube-redux-react/static/media/hamburger01.046a8b19dd9d111bf1bce0b9d5ebafa9.svg",
+    "main.d620ec62.js.map": "/youtube-redux-react/static/js/main.d620ec62.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b0f8169.js"
+    "static/js/main.d620ec62.js"
   ]
 }
