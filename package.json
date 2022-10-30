@@ -2,7 +2,7 @@
   "name": "youtube-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://silo9506.github.io/youtube-api-react",
+  "homepage": "https://github.com/silo9506/youtube-redux-react.git",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.14.1",
