@@ -11,10 +11,9 @@ const Loading = () => {
 };
 
 const Container = styled.div`
-  min-height: 100vh;
+  min-height: calc(100vh - 56px);
   width: 100%;
   background-color: black;
-  height: 100%;
   position: relative;
   padding-bottom: 32px;
 `;
@@ -26,10 +25,10 @@ const spin = keyframes`
 `;
 const LodingBox = styled.div`
   position: absolute;
-  top: 25%;
+  top: 50%;
   left: 50%;
   z-index: 1;
-  transform: translateX(-50%, -50%);
+  transform: translate(-50%, -50%);
   div {
     width: 120px;
     height: 120px;
